@@ -1,0 +1,6 @@
+{
+  "name": "Cybersecurity Video Player",
+  "description": "An interactive, high-fidelity animated video player simulating the 60-second cybersecurity training video with real-time vector animations, synchronized voiceover narration, subtitles, and interactive playback scrubbers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
